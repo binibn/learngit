@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 # gitstudy
 
 #### Description
 11111
+=======
+# learngit
+
+#### Description
+{**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}
+>>>>>>> adfeb88ae69fd363e9fd28cea6bb4d60487c63a7
 
 #### Software Architecture
 Software architecture description
